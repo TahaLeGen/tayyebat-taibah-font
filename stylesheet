@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Quiverleaf Arabic CF';
+    src: local('QuiverleafArabicCFRegular'), local('QuiverleafArabicCF-Regular'),
+        url('fonnts.com-quiverleafarabiccf-regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Quiverleaf Arabic CF';
+    src: local('QuiverleafArabicCFBold'), local('QuiverleafArabicCF-Bold'),
+        url('fonnts.com-quiverleafarabiccf-bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Quiverleaf Arabic CF';
+    src: local('QuiverleafArabicCFLight'), local('QuiverleafArabicCF-Light'),
+        url('fonnts.com-quiverleafarabiccf-light.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Quiverleaf Arabic CF';
+    src: local('QuiverleafArabicCFSemibold'), local('QuiverleafArabicCF-Semibold'),
+        url('fonnts.com-quiverleafarabiccf-semibold.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
